@@ -1,0 +1,144 @@
+[24-May-2021 14:55:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 14:55:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 14:55:36 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 14:55:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 14:58:12 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 14:59:16 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:01:24 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:03:27 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:03:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:03:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:03:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:03:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:03:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:04:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:04:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:04:59 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:08:49 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 15:12:39 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(124 in /home/neuronnc/menage/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805

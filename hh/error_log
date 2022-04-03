@@ -1,0 +1,16 @@
+[24-May-2021 15:48:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view in /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[24-May-2021 16:02:34 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(785): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(770): Illuminate\Container\Container->make('view', Array)
+#5 /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view in /home/neuronnc/site/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
